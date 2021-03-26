@@ -1,3 +1,5 @@
+Created two models based on Stochastic local search (SLS) and Branch and Bound (BnB) via Python to optimize paths for Travelling Salesman Problems.
+
 To run bnb with benchmark, paste all the benchmark file to this directory and run:
 bash runbnb1.sh
 bash runbnb2.sh
