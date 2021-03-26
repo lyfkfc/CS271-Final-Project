@@ -1,0 +1,5 @@
+To run bnb with benchmark, paste all the benchmark file to this directory and run:
+bash runbnb1.sh
+bash runbnb2.sh
+
+Two bash files run small data and large data each and every benchmark has a time limit of 15 minutes.
